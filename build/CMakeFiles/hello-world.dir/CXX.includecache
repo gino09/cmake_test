@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/giarinogarcia/Downloads/example/Message.cpp
+Message.hpp
+/Users/giarinogarcia/Downloads/example/Message.hpp
+iostream
+-
+string
+-
+
+/Users/giarinogarcia/Downloads/example/Message.hpp
+iosfwd
+-
+string
+-
+
+/Users/giarinogarcia/Downloads/example/hello-world.cpp
+Message.hpp
+/Users/giarinogarcia/Downloads/example/Message.hpp
+cstdlib
+-
+iostream
+-
+

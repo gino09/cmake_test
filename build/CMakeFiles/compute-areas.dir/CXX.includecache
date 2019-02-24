@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/giarinogarcia/Downloads/example/compute-areas.cpp
+geometry_circle.hpp
+/Users/giarinogarcia/Downloads/example/geometry_circle.hpp
+geometry_polygon.hpp
+/Users/giarinogarcia/Downloads/example/geometry_polygon.hpp
+geometry_rhombus.hpp
+/Users/giarinogarcia/Downloads/example/geometry_rhombus.hpp
+geometry_square.hpp
+/Users/giarinogarcia/Downloads/example/geometry_square.hpp
+cstdlib
+-
+iostream
+-
+
+/Users/giarinogarcia/Downloads/example/geometry_circle.hpp
+
+/Users/giarinogarcia/Downloads/example/geometry_polygon.hpp
+
+/Users/giarinogarcia/Downloads/example/geometry_rhombus.hpp
+
+/Users/giarinogarcia/Downloads/example/geometry_square.hpp
+

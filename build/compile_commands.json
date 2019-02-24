@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/giarinogarcia/Downloads/example/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -fPIC -o CMakeFiles/compute-areas.dir/compute-areas.cpp.o -c /Users/giarinogarcia/Downloads/example/compute-areas.cpp",
+  "file": "/Users/giarinogarcia/Downloads/example/compute-areas.cpp"
+},
+{
+  "directory": "/Users/giarinogarcia/Downloads/example/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -fPIC   -fPIC -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/geometry.dir/geometry_circle.cpp.o -c /Users/giarinogarcia/Downloads/example/geometry_circle.cpp",
+  "file": "/Users/giarinogarcia/Downloads/example/geometry_circle.cpp"
+},
+{
+  "directory": "/Users/giarinogarcia/Downloads/example/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -fPIC   -fPIC -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/geometry.dir/geometry_polygon.cpp.o -c /Users/giarinogarcia/Downloads/example/geometry_polygon.cpp",
+  "file": "/Users/giarinogarcia/Downloads/example/geometry_polygon.cpp"
+},
+{
+  "directory": "/Users/giarinogarcia/Downloads/example/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -fPIC   -fPIC -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/geometry.dir/geometry_rhombus.cpp.o -c /Users/giarinogarcia/Downloads/example/geometry_rhombus.cpp",
+  "file": "/Users/giarinogarcia/Downloads/example/geometry_rhombus.cpp"
+},
+{
+  "directory": "/Users/giarinogarcia/Downloads/example/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -fPIC   -fPIC -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/geometry.dir/geometry_square.cpp.o -c /Users/giarinogarcia/Downloads/example/geometry_square.cpp",
+  "file": "/Users/giarinogarcia/Downloads/example/geometry_square.cpp"
+}
+]
